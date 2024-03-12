@@ -29,9 +29,5 @@ Here are some ideas to get you started:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Github Analytics:
-<!-- ### Github Analytics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahedalmassri)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahedalmassri&layout=compact&theme=tokyonight)
 
