@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 ### Github Analytics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminealmassri&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-g8zpek1kw-shahedalmassris-projects.vercel.app/api/top-langs/?username=jasminealmassri&layout=compact&theme=tokyonight)
+
 
