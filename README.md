@@ -35,10 +35,14 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<!-- ### Github Analytics:
- ![Top Langs](https://github-readme-stats-odst-e7acunm26-shahedalmassris-projects.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jasminealmassri)) -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jasminealmassri)
+ ### Github Analytics:
+  ![Top Langanguages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jasminealmassri)
+  <p>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jasminealmassri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
 
- <!-- ![Top Languages](https://github-readme-stats-odst-e7acunm26-shahedalmassris-projects.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jasminealmassri) -->
+
+
+
 
 
