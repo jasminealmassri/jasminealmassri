@@ -32,7 +32,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
  ## Github Analytics:
-  ![Top Langanguages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jasminealmassri)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jasminealmassri)
   <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jasminealmassri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
